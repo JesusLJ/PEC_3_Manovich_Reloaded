@@ -65,7 +65,7 @@ Spotify no solo ha cambiado la forma en la que accedemos a la música, también 
     <span style="font-style: italic; color: #676766; font-size: 0.8em;">(Spotify, n.d.)</span>
 </p>
 
-Otra característica de hibridación que contiene Spotify es “Wrapped”. Al final de cada año, ofrece un resumen de forma personalizada de los artistas y canciones más escuchadas por el usuario, entre otros datos interesantes. La hibridación de esta funcionalidad se ha convertido en cultural ya que se comparten los resultados en redes sociales y llevan a debates o conversaciones sobre tendencias musicales en el año.
+Otra característica de hibridación que contiene Spotify es _“Wrapped”_. Al final de cada año, ofrece un resumen de forma personalizada de los artistas y canciones más escuchadas por el usuario, entre otros datos interesantes. La hibridación de esta funcionalidad se ha convertido en cultural ya que se comparten los resultados en redes sociales y llevan a debates o conversaciones sobre tendencias musicales en el año.
 
 <p align="center">
     <img src="docs-images/FTR_Sound-Town-Header-1440x733.jpg" alt="Pantalla de la aplicación Spotify mostrado la utilida de Wrapped" width="80%" style="max-width: 700px"/>
