@@ -38,6 +38,12 @@ Hawkers es una marca de gafas de sol que ha revolucionado el marcado de la moda 
 
 Esta hibridación en Hawkers no se limita a la combinación de moda y tecnología, ya que ha redefinido la experiencia de compra que tienen sus clientes a la hora de comprar su producto. Este probador virtual ofrece una solución a un problema clave que tiene todo el comercio electrónico de la moda: la incapacidad de probar los productos antes de comprarlos. Al superar esta barrera, la marca no solo mejora la funcionalidad de su página web, también enriquece la experiencia con el cliente debido a que les ofrece una interacción más personal e inmersiva con sus productos. La tecnología de realidad aumentada que utiliza Hawkers se representa en la hibridación de los medios como una forma de combinar elementos visuales que están presentes en el mundo real con la información digitalizada y superpuesta, llevando a que esta tecnología se salte los limites tradiciones de la físico y lo digital. Dando como resultado al cliente una experiencia de compra que es tangible e intangible a la misma vez. 
 
+<p align="center">
+    <img src="docs-images/Safari_Hawkers.jpg" alt="Imagen dondes se muestra la pagina web de Hawkers con una persona probandose una gafas de forma virtual" width="800"/>
+    <br>
+    <span style="font-style: italic; color: #676766; font-size: 0.8em;">(Propia)</span>
+</p>
+
 Además, podemos observar que con esta hibridación va más allá de la funcionalidad, debido que toca aspectos emocionales en el proceso de compra, que permite a los clientes experimentar y jugar con su imagen de una manera que solo es posible en una tienda física. Mejorando la conexión emocional del cliente con la marca y producto haciéndole sentir en una tienda física, algo que para las marcas de moda es fundamentan debido a que verse bien con las prendas y accesorios de moda tiene un impacto emocional en las personas.  
 
 En este mundo donde los límites entre lo que es virtual y real es cada vez más difuso, este tipo de herramientas muestran que se puede combinar lo mejor de ambos mundos para mejorar la comodidad y accesibilidad para los consumidores, abriendo también nuevas vías para la creatividad e innovación en el marketing y diseño de productos. En resumen, el probador virtual de Hawkers es un claro ejemplo de la hibridación en la era digital, conforme a las teorías de Manovich. Al integrar la realidad aumentada en la experiencia de compra. Hawkers ha creado una experiencia de usuario profundamente híbrida que redefine lo que significa "probarse" un producto en la era digital.
@@ -102,4 +108,3 @@ En resumen, la hibridación de Manovich es un paradigma que redefine como intera
 
 
 Licencia: Creative Commons desarrollado bajo licencia CC BY-SA 4.0. <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/CC_BY-SA_icon.svg" alt="Texto alternativo" width="8%" height="auto">
- 
