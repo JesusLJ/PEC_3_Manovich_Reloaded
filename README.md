@@ -15,7 +15,7 @@ Fecha: Diciembre 2023
     <span style="font-style: italic; color: #676766; font-size: 0.8em;">(Freepik, n.d.)</span>
 </p>
 
-En un mundo donde cada vez más tecnología inunda nuestra vida cotidiana, el concepto de hibridación aparece como un pilar fundamental en como comprender la evolución cultural y tecnológica. Lev Manovich en su libro “El software toma el mando” (Manovich, 2013) hace referencia a sobre cómo los medios digitales se tranforman y se integran con diversas formas de expresión en nuestra vida cotidiana. Este suceso lo define como hibridación, que simplemente quiere decir que no es una mezcla sino una fusión sinérgica que generan nuevas formas de medios y que redefinen nuestra interacción con el mundo digital. 
+En un mundo donde cada vez más tecnología inunda nuestra vida cotidiana, el concepto de hibridación aparece como un pilar fundamental en como comprender la evolución cultural y tecnológica. Lev Manovich en su libro “El software toma el mando” (Manovich, 2013) hace referencia a sobre cómo los medios digitales se transforman y se integran con diversas formas de expresión en nuestra vida cotidiana. Este suceso lo define como hibridación, que simplemente quiere decir que no es una mezcla sino una fusión sinérgica que generan nuevas formas de medios y que redefinen nuestra interacción con el mundo digital. 
 
 Manovich nos expresa la hibridación como una convergencia entre distintas tecnologías, cultura y arte. Llevando a crear un tejido interconectado donde lo nuevo tiene una base de lo antiguo. Esta analogía no solo implica una combinación de medios como el texto, audio o video, sino también la integración de nuevas funciones, roles y contextos que nos dan paso a que nazcan nuevas experiencias hibridas que son familiares y nuevas a la vez. Esta hibridación también nos hace que la interacción entre el usuario y la tecnología sea más profunda, lo que quiere decir, que no se quede simplemente en una tecnología que se consuma, sino que también se pueden personalizar, crear e interactuar. Estas características nos permiten que nazcan nuevas formas de creatividad y expresión.
 
@@ -25,7 +25,7 @@ En este ensayo, exploraremos como este concepto de hibridación se expresa en do
 
 
 
-## Re-descubriendo la hibridacion: Provador virtual de Hawkers
+## Re-descubriendo la hibridación: Probador virtual de Hawkers
 
 <p align="center">
     <img src="docs-images/HAWKERS_LOGO.jpg" alt="Logo de la empresa Hawkers" width="300"/>
@@ -51,7 +51,7 @@ En este mundo donde los límites entre lo que es virtual y real es cada vez más
 
 
 
-## Re-descubriendo la hibridacion: Spotify
+## Re-descubriendo la hibridación: Spotify
 
 <p align="center">
     <img src="docs-images/Spotify_logo_with_text.svg" alt="Logo de la empresa Spotify" width="400"/>
@@ -61,7 +61,7 @@ En este mundo donde los límites entre lo que es virtual y real es cada vez más
 
 Spotify, es una plataforma de música en streaming que es líder mundial. Esta plataforma ha destacado por sus múltiples formas de clasificar la música por géneros o estados de ánimo, como también por las recomendaciones de música que ofrece de forma personalizada para el usuario. En este ejemplo de hibridación alineado con las teorías de Manovich, podemos observar cómo Spotify combina tecnología, datos y cultura para ofrecer una experiencia musical única para cada usuario y observado la evolución que han sufrido los formatos tradicionales de producción de música.
 
-En la era de los vinilos, cassetes y CD la música tenía una experiencia limitada por el acceso a estos recursos físicos. Los oyentes dependían de tener las colecciones físicas para poder reproducir música y tener que transportarlos para escucharlos allá donde quisieran. Spotify ha transformado esta forma de reproducir música eliminando las barreras físicas y permitiendo que un usuario pueda acceder a una biblioteca de música ilimitada desde cualquier lugar del mundo desde su dispositivo móvil y en cualquier momento. Esta nueva hibridación de lo físico a lo digital ha democratizado la música, haciendo que sea más accesible a un público más amplio y sin restricciones físicas.  Además, ha cambiado la forma en la que interactuamos con la música. Con los sistemas físicos tendríamos que ir a comprar el álbum y después cargarlo en el dispositivo reproductor, ahora simplemente descargando la aplicación y con unos cuantos clics, podemos escuchar el último tema de nuestro artista favorito. 
+En la era de los vinilos, casetes y CD la música tenía una experiencia limitada por el acceso a estos recursos físicos. Los oyentes dependían de tener las colecciones físicas para poder reproducir música y tener que transportarlos para escucharlos allá donde quisieran. Spotify ha transformado esta forma de reproducir música eliminando las barreras físicas y permitiendo que un usuario pueda acceder a una biblioteca de música ilimitada desde cualquier lugar del mundo desde su dispositivo móvil y en cualquier momento. Esta nueva hibridación de lo físico a lo digital ha democratizado la música, haciendo que sea más accesible a un público más amplio y sin restricciones físicas.  Además, ha cambiado la forma en la que interactuamos con la música. Con los sistemas físicos tendríamos que ir a comprar el álbum y después cargarlo en el dispositivo reproductor, ahora simplemente descargando la aplicación y con unos cuantos clics, podemos escuchar el último tema de nuestro artista favorito. 
 
 Spotify no solo ha cambiado la forma en la que accedemos a la música, también a como somo capaces de descubrir música nueva.  En el pasado, el descubrimiento ocurría mediante las recomendaciones de amigos, la comprar de álbumes con buenas reseñas o escuchando una canción en la radio. Ahora con Spotify al recolectar datos sobre las canciones que escuchamos y nos gustan, nos ofrece una recomendación de nuevas canciones que nos pueden interesar, además de poder acceder a ella de forma clasificada por géneros o listas de recomendación de amigos. Al recoger nuestra información de la música que escuchamos, es capaz de recomendarnos artistas nuevos y promover a artistas emergentes y géneros en auge. Con esta capacidad de influir en las tendencias musicales, se muestra como la hibridación de esta aplicación es capaz de influir en la cultura musical que permite que las personas realmente escuchen la música que les gusta en cualquier momento. 
 
